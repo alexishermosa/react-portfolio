@@ -45,7 +45,7 @@ const Intro = () => {
         {/*blur divs*/}
         <div className="blur" style={{
           background: "rgb(238 210 255)",
-          left: '18rem',
+          left: '20rem',
           }} ></div>
         <div className="blur" style={{
           background: '#C1F5FF',
