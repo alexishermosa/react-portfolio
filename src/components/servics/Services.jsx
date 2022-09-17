@@ -46,8 +46,8 @@ const Services = () => {
           heading= {'Soft Skills'}
           detail= {'Good communication, Problem resolution, Attention to detail'}
           />
-
         </div>
+        <div className="blur s-blur2" style={{ background: 'var(--purple' }}></div>
       </div>
     </div>
   )
